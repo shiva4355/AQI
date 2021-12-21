@@ -18,7 +18,7 @@ One can learn following concepts of reactJs:
 - Passing Props
 
 # Demo
-A Demo of the project [is running here](https://air-quality-index.netlify.com/).
+A Demo of the projectsss [is running here](https://air-quality-index.netlify.com/).
 
 # See it in Action
 [![AQI](site/flow.gif)](https://tapasadhikary.com)
